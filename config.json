@@ -1,0 +1,8 @@
+{
+    "base": "Z:\\User\\Projects\\Guojiadong\\Projects\\bulk-ice\\RDF",
+    "output": "analyzed\\raw",
+    "temp": "temp",
+    "fit": "analyzed\\fitted",
+    "area": "analyzed\\area",
+    "RDF_ref_length": 1.5
+}
